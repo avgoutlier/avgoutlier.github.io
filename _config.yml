@@ -2,7 +2,7 @@ title: Deep Dive into Data
 author: Sejoong Kim
 email: sejoong26@yonsei.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
-  I'm sharing the things I learned and tried in data handling.
+  Dynamic record of miscellaneous trials and errors of Big Data.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
